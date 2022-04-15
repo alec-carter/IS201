@@ -1,0 +1,27 @@
+body{
+background-color: rgb(230, 155, 15);
+}
+
+.tigerbackground{
+    background-color: rgb(230, 155, 15)
+}
+
+.fantasyfont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+H1{
+    color: burlywood;
+}
+
+li{
+    font-style: italic;
+}
+
+H2{
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
