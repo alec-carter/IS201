@@ -2,27 +2,47 @@
     position: absolute;
 }
 
+.bodycolor{
+    color: brown;
+}
+
 .footer{
     bottom: 5px;
     height: 50px;
     left: 5px;
     right: 5px;
     font-size: 14px;
-    color: #999999;
+    color: brown;
     text-align: center;
-    position: fixed;
+    border-top: solid 1px #999999;
+}
+
+.fantasyfont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+H2{
+    color: rgb(122, 29, 29);
+}
+
+.italics{
+    font-style:italic
 }
 
 body{
     background-color: rgb(230, 155, 15);
 }
+
 .header{
-    text-align: right;
-    color: white;
-    border-style: hidden;
-    background-color: black;
-    font-size: 30px;
-    outline-color: black;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody{
+    top: 114px;
+    border-top: solid 1px #999999;
 }
 
 a:visited{
